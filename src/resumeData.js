@@ -90,7 +90,7 @@ let resumeData = {
         "name":"Coding Women",
         "description":"I created this website as part of a team, our goal was to encourage women to code",
         "imgurl":"images/coding women.png",
-        "url":"https://codepen.io/itamartati/full/QVZOmN"
+        "url":"https://kodiri.github.io/8-days-a-week/"
       }
     ],
     "testimonials":[
