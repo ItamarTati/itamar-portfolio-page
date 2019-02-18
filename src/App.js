@@ -19,9 +19,9 @@ class App extends Component {
     );
   }
 }
-function initializeReactGA() {
+
   ReactGA.initialize('UA-134640199-1');
   ReactGA.pageview('/itamar-portfolio-page');
-}
+
 export default App;
 
