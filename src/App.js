@@ -21,7 +21,7 @@ class App extends Component {
 }
 
   ReactGA.initialize('UA-134640199-1');
-  ReactGA.pageview('/itamar-portfolio-page');
+  ReactGA.pageview('itamartati.github.io/itamar-portfolio-page/');
 
 export default App;
 
