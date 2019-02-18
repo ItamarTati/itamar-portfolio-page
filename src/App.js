@@ -5,6 +5,7 @@ import Resume from './components/Resume';
 import Portfolio from './components/Portfolio';
 import Footer from './components/Footer';
 import resumeData from './resumeData';
+import ReactGA from 'react-ga';
 class App extends Component {
   render() {
     return (
@@ -18,5 +19,9 @@ class App extends Component {
     );
   }
 }
-
+function initializeReactGA() {
+  ReactGA.initialize('UA-134640199-1');
+  ReactGA.pageview('/homepage');
+}
 export default App;
+
