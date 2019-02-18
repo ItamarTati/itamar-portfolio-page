@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/itamar-portfolio-page/precache-manifest.f3199f7c5d4d32aba4775c8ca66604ea.js"
+  "/itamar-portfolio-page/precache-manifest.9e96429dee435d6b0fee9e2d009892d2.js"
 );
 
 workbox.clientsClaim();
