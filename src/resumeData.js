@@ -2,9 +2,7 @@ let resumeData = {
     "imagebaseurl":"https://github.com/ItamarTati",
     "name": "Itamar Tati",
     "role": "Frontend Developer",
-    "linkedinId":"b4b2a3102",
-    "discordid": "ET#7565",
-    "roleDescription": "I'm a JavaScript/React Developer looking to learn, gain exprience and meet wonderful people",
+    "roleDescription": "I'm a Web Developer (JavaScript/React/Wordpress) and SME Consultant looking to learn, gain exprience and meet wonderful people",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -27,29 +25,75 @@ let resumeData = {
           "className":"fa fa-youtube"
         },
         {
+          "name":"instagram",
+          "url":"https://www.instagram.com/itamar_tati/",
+          "className":"fa fa-instagram"
+        },
+        {
+          "name":"facebook",
+          "url":"https://www.facebook.com/itamar.tati.9",
+          "className":"fa fa-facebook"
+        },
+        {
           "name":"envelope",
           "url":"mailto:itamar.tati1994@gmail.com",
           "className":"fa fa-envelope"
         }
       ],
-    "aboutme":"I've been coding as a hobby for more than 2 years creating websites using HTML and CSS, during these years I developed several skills in making websites look beatiful and mordern. More recently I graduted from a JavaScript/React bootcamp where I learned to work with others, make projects using React.js and creating professional projects",
+    "aboutme":"I am a JavaScript/React developer looking for a Junior Developer position. My main strengths are that I studied at Business School specializing in business start-ups, managing innovation and internet marketing. My main goal is to help small to medium size businesses accomplish projects and goals using my skills in JavaScript/React, Internet Marketing and other business-related skills.",
     "address":"London",
     "website":"+447568488047",
     "education":[
       {
         "UniversityName":"Middlesex University",
-        "specialization":"Business Management (Innovation Management and Business Start-up)",
+        "specialization":"Business Management (Innovation and Entrepreneurship) BA Honours",
         "MonthOfPassing":"June",
         "YearOfPassing":"2018",
         "Achievements":"1st Class Degree"
       },
       {
+        "UniversityName":"Internet Business School",
+        "specialization":"Internet Marketing",
+        "MonthOfPassing":"October",
+        "YearOfPassing":"2018",
+        "Achievements":"Internet Marketing Diploma"
+      },
+      {
         "UniversityName":"Kodiri Bootcamp",
-        "specialization":"JavaScript & React BootCamp (Google Analytics)",
-        "MonthOfPassing":"Febuary",
+        "specialization":"JavaScript & React BootCamp",
+        "MonthOfPassing":"March",
         "YearOfPassing":"2019",
         "Achievements":"Expert Level (Highest level)"
       }
+    ],
+    "skills": [
+      {
+        "skillname":"Business Start-Ups Management"
+      },
+      {
+        "skillname":"Internet Marketing"
+      },
+      {
+        "skillname":"Innovation Management"
+      },
+      {
+        "skillname":"Search Engine Optimization"
+      },
+      {
+        "skillname":"Google Analytics"
+      },
+      {
+        "skillname":"HTML5 & CSS"
+      },
+      {
+        "skillname":"WordPress"
+      },
+      {
+        "skillname":"Node.JS"
+      },
+      {
+        "skillname":"JavaScript & Reactjs"
+      },
     ],
     "work":[
       {
@@ -57,15 +101,8 @@ let resumeData = {
         "specialization":"Charity",
         "MonthOfLeaving":"December",
         "YearOfLeaving":"2015",
-        "Achievements":"Assistant Manager"
+        "Achievements":"Volunteer"
       },
-      {
-        "CompanyName":"Eddies",
-        "specialization":"Convience Store",
-        "MonthOfLeaving":"June",
-        "YearOfLeaving":"2013",
-        "Achievements":"Several roles"
-      }
     ],
     "portfolio":[
       {
@@ -81,26 +118,16 @@ let resumeData = {
         "url":"https://kodflix-tati.herokuapp.com/"
       },
       {
-        "name":"Survey",
-        "description":"This a project I made to gather information about gamers",  
-        "imgurl":"images/survey.png",
-        "url":"https://codepen.io/itamartati/full/QVZOmN"
+        "name":"Third-Eye",
+        "description":"This a project I for an Overwatch Esports Team",  
+        "imgurl":"images/third-eye.png",
+        "url":"https://itamartati.github.io/Third-Eye/"
       },
       {
         "name":"Coding Women",
         "description":"I created this website as part of a team, our goal was to encourage women to code",
         "imgurl":"images/coding women.png",
         "url":"https://kodiri.github.io/8-days-a-week/"
-      }
-    ],
-    "testimonials":[
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      },
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
       }
     ]
   }
