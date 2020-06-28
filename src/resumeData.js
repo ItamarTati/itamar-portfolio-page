@@ -1,8 +1,8 @@
 let resumeData = {
     "imagebaseurl":"https://github.com/ItamarTati",
     "name": "Itamar Tati",
-    "role": "Frontend Developer",
-    "roleDescription": "I'm a Web Developer (JavaScript/React/Wordpress) and SME Consultant looking to learn, gain exprience and meet wonderful people",
+    "role": "Software Engineer",
+    "roleDescription": "My areas of expertise are mainly in JavaScript, ES6, React.JS, GraphQL, TypeScript.JS, Node.JS, Express.JS and MongoDB, however, I’m willing to learn, adapt and change to suit your business’s needs",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -25,110 +25,254 @@ let resumeData = {
           "className":"fa fa-youtube"
         },
         {
-          "name":"instagram",
-          "url":"https://www.instagram.com/itamar_tati/",
-          "className":"fa fa-instagram"
-        },
-        {
-          "name":"facebook",
-          "url":"https://www.facebook.com/itamar.tati.9",
-          "className":"fa fa-facebook"
-        },
-        {
           "name":"envelope",
           "url":"mailto:itamar.tati1994@gmail.com",
           "className":"fa fa-envelope"
         }
       ],
-    "aboutme":"I am a JavaScript/React developer looking for a Junior Developer position. My main strengths are that I studied at Business School specializing in business start-ups, managing innovation and internet marketing. My main goal is to help small to medium size businesses accomplish projects and goals using my skills in JavaScript/React, Internet Marketing and other business-related skills.",
+    "aboutme":"I am a Software Engineer looking to work for a company on a long term basis (working at your company for several years). I've been developing websites as a hobby and professionally for over 2 years. Most of my experience lies in Full Stack Development. I mostly work with React.js, I’m open to learning any language, framework or technologies in general. I’m also very comfortable only working on the frontend or backend. Before programming I was a Business Management graduate who got a first class degree from Middlesex University, I then took my talents to the charity sector, the restaurant industry and education, providing support, leadership and teamwork.",
     "address":"London",
     "website":"+447568488047",
     "education":[
       {
         "UniversityName":"Middlesex University",
-        "specialization":"Business Management (Innovation and Entrepreneurship) BA Honours",
+        "specialization":"Business Management (Innovation and Entrepreneurship) BA Honours (1st Class Degree)",
         "MonthOfPassing":"June",
         "YearOfPassing":"2018",
-        "Achievements":"1st Class Degree"
+        "Achievements":[
+          {"Achievement": "Strategic Management"},
+          {"Achievement": "Innovation Management"},
+          {"Achievement": "Business Start-Up Management"},
+          {"Achievement": "Prooduct Management"}
+        ]
       },
       {
-        "UniversityName":"Internet Business School",
-        "specialization":"Internet Marketing",
-        "MonthOfPassing":"October",
-        "YearOfPassing":"2018",
-        "Achievements":"Internet Marketing Diploma"
-      },
-      {
-        "UniversityName":"Kodiri Bootcamp",
-        "specialization":"JavaScript & React BootCamp",
+        "UniversityName":"Kodiri.com",
+        "specialization":"JavaScript & React",
         "MonthOfPassing":"March",
         "YearOfPassing":"2019",
-        "Achievements":"Expert Level (Highest level)"
-      }
+        "Achievements": [
+          {"Achievement": "Developed and deployed full stack website under the supervision of a senior developer"},
+          {"Achievement": "Lead daily stand-ups to prepare students for agile development environments "},
+          {"Achievement": "Coached web development best practices in JavaScript, CSS and HTML "}
+
+        ]
+      },
+      {
+        "UniversityName":"FreeCodeCamp.com",
+        "specialization":"HTML, CSS & JavaScript",
+        "MonthOfPassing":"October",
+        "YearOfPassing":"2019",
+        "Achievements":[
+          {"Achievement": "Responsive Web Design Certificate"},
+          {"Achievement": "JavaScript Algorithms and Data Structures Certificate"},
+          {"Achievement": "Front End Libraries Certificate"},
+          {"Achievement": "Data Visualization Certificate"},
+          {"Achievement": "APIs and Microservices Certificate"},
+          {"Achievement": "Information Security and Quality Assurance Certificate"},
+        ]
+      },
+        {
+        "UniversityName":"Self-Taught",
+        "specialization":"Software Engineer",
+        "MonthOfPassing":"On-Going",
+        "YearOfPassing":"",
+        "Achievements":[
+          {"Achievement":"Extensively used Git for version controlling and regularly pushed the code to GitHub"},
+          {"Achievement":"Implemented React JS code to handle cross browser compatibility issues in Mozella, IE 7, 8, 9, Microsoft Edge, Safari and Google Chrome"},
+          {"Achievement":"Created custom reusable React components"},
+          {"Achievement":"Implemented React container and presentational components (as Stateless and Functional components when applicable)"},
+          {"Achievement":"Wrote application level code to interact with APIs, RESTful Web Services using AJAX, JSON"},
+          {"Achievement":"Experience using, Flask, Node JS and Express to make calls (GET, POST, PUT, DELETE) to trigger or fetch data from Restful API's"},
+          {"Achievement":"Utilized React-Router to create Dynamic Routing in Single Page Applications"},
+          {"Achievement":"Created highly responsive layouts for using the SCSS/SASS preprocessor"},
+          {"Achievement":"Contributed on StackOverFlow and to open source projects on Github"},
+          {"Achievement":"Created RESTful and GraphQL API's to be used with both MySQL and NoSQL databases"}
+        ]
+      },
     ],
     "skills": [
       {
-        "skillname":"Business Start-Ups Management"
+        "skillname":"HTML & CSS"
       },
       {
-        "skillname":"Internet Marketing"
+        "skillname":"HTML5"
       },
       {
-        "skillname":"Innovation Management"
+        "skillname":"CSS3"
       },
       {
-        "skillname":"Search Engine Optimization"
+        "skillname":"SASS/SCSS"
       },
       {
-        "skillname":"Google Analytics"
+        "skillname":"Bootstrap"
       },
       {
-        "skillname":"HTML5 & CSS"
+        "skillname":"Material Design"
       },
       {
-        "skillname":"WordPress"
+        "skillname":"JavaScript"
+      },
+      {
+        "skillname":"Vanilla JavaScript"
+      },
+      {
+        "skillname":"Promises & Async"
+      },
+      {
+        "skillname":"Closures"
+      },
+      {
+        "skillname":"ES5"
+      },
+      {
+        "skillname":"ES6"
+      },
+      {
+        "skillname":"ES7"
+      },
+      {
+        "skillname":"ES8"
+      },
+      {
+        "skillname":"ES2018"
+      },
+      {
+        "skillname":"ES2019"
+      },
+      {
+        "skillname":"ES2020"
+      },
+      {
+        "skillname":"React.JS"
+      },
+      {
+        "skillname":"React-Router"
+      },
+      {
+        "skillname":"React-Hooks"
+      },
+      {
+        "skillname":"Chart.JS"
+      },
+      {
+        "skillname":"D3.JS"
+      },
+      {
+        "skillname":"Higher Order Components"
+      },
+      {
+        "skillname":"React Native.JS"
+      },
+      {
+        "skillname":"Context API"
+      },
+      {
+        "skillname":"Redux.JS"
+      },
+      {
+        "skillname":"Redux-Form"
+      },
+      {
+        "skillname":"Final-Form"
+      },
+      {
+        "skillname":"Formik"
+      },
+      {
+        "skillname":"GraphQL"
+      },
+      {
+        "skillname":"TypeScript.JS"
       },
       {
         "skillname":"Node.JS"
       },
       {
-        "skillname":"JavaScript & Reactjs"
+        "skillname":"Deno.js"
+      },
+      {
+        "skillname":"Java"
+      },
+      {
+        "skillname":"Python"
+      },
+      {
+        "skillname":"Flask"
+      },
+      {
+        "skillname":"NoSQL"
+      },
+      {
+        "skillname":"MySQL"
+      },
+      {
+        "skillname":"Firebase RealTime Database"
+      },
+      {
+        "skillname":"MongoDB"
+      },
+      {
+        "skillname":"PostgreSQL"
+      },
+      {
+        "skillname":"Firebase Hosting"
+      },
+      {
+        "skillname":"Heroku"
+      },
+      {
+        "skillname":"Git"
+      },
+      {
+        "skillname":"Version Control"
       },
     ],
     "work":[
       {
-        "CompanyName":"Help One Child",
-        "specialization":"Charity",
-        "MonthOfLeaving":"December",
-        "YearOfLeaving":"2015",
-        "Achievements":"Volunteer"
+        "CompanyName":"Randy Recruitement",
+        "specialization":"Software Engineer",
+        "MonthOfLeaving":"October",
+        "YearOfLeaving":"2019",
+        "Achievements": [
+          {"Achievement":"Hired to design and create website's front end using React JS, project was completed within 2 weeks"},
+          {"Achievement":"Advised and gave ideas on how to develope and maintain contructive relationships with Software Engineers"},
+          {"Achievement":"Played a pivotal role in motivating staff"},
+        ]
       },
+      {
+        "CompanyName":"Social Sync",
+        "specialization":"Software Engineer",
+        "MonthOfLeaving":"November",
+        "YearOfLeaving":"2019",
+        "Achievements": [
+          {"Achievement":"Hired to add features to existing website using React JS, TypeScript and GraphQL, project was completed within a month"},
+          {"Achievement":"Constantly communicated with Managers about changes"},
+          {"Achievement":"Learned several technologies in a short period of time"},
+        ]
+      },
+
     ],
     "portfolio":[
-      {
-        "name":"Japanese History",
-        "description":"I created a tribute page for one of Japan's most influencial warriors",
-        "imgurl":"images/fanpage copy.png",
-        "url":"https://codepen.io/itamartati/full/oPPKLK"
-      },
-      {
-        "name":"Animeflix",
-        "description":"This is a project I made during my time with Kodiri were I made a Netflix clone based on animes",
-        "imgurl":"images/kodflix copy.png",
-        "url":"https://kodflix-tati.herokuapp.com/"
-      },
-      {
-        "name":"Third-Eye",
-        "description":"This a project I for an Overwatch Esports Team",  
-        "imgurl":"images/third-eye.png",
-        "url":"https://itamartati.github.io/Third-Eye/"
-      },
       {
         "name":"Coding Women",
         "description":"I created this website as part of a team, our goal was to encourage women to code",
         "imgurl":"images/coding women.png",
         "url":"https://kodiri.github.io/8-days-a-week/"
-      }
+      },
+      {
+        "name":"Covid-19 Tracker",
+        "description":"I created this website to spread awareness of the deadly Covid-19 viral infection.",
+        "imgurl":"images/covid-19.png",
+        "url":"https://itamartati.github.io/covid19-tracker/"
+      },
+      {
+        "name":"Anime and Manga",
+        "description":"I made a website to help people find great Anime to watch",
+        "imgurl":"images/anime.png",
+        "url":"https://anime--manga.herokuapp.com/"
+      },
+
     ]
   }
   
