@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "2bf89e1c6a11824f0f43",
+    "revision": "3499749b3012556b1926",
     "url": "/itamar-portfolio-page/static/css/main.4ec78354.chunk.css"
   },
   {
-    "revision": "2bf89e1c6a11824f0f43",
-    "url": "/itamar-portfolio-page/static/js/main.2bf89e1c.chunk.js"
+    "revision": "3499749b3012556b1926",
+    "url": "/itamar-portfolio-page/static/js/main.3499749b.chunk.js"
   },
   {
     "revision": "6edb06fd2363d7b076ea",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/itamar-portfolio-page/static/js/2.e6546bb2.chunk.js"
   },
   {
-    "revision": "ac3e54a01c4f939232ae2ff6d100b254",
+    "revision": "623269b4eb7a4a46fb050920b8a1abdf",
     "url": "/itamar-portfolio-page/index.html"
   }
 ];
