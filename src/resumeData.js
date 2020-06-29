@@ -87,7 +87,7 @@ let resumeData = {
           {"Achievement":"Utilized React-Router to create Dynamic Routing in Single Page Applications"},
           {"Achievement":"Created highly responsive layouts for using the SCSS/SASS preprocessor"},
           {"Achievement":"Contributed on StackOverFlow and to open source projects on Github"},
-          {"Achievement":"Created RESTful and GraphQL API's to be used with both MySQL and NoSQL databases"}
+          {"Achievement":"Created RESTful and GraphQL API's to be used with both MySQL(PostgreSQL) and NoSQL(MongoDB) databases"}
         ]
       },
     ],
