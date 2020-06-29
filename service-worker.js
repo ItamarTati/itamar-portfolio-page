@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/itamar-portfolio-pge/precache-manifest.59b425b8d3629da4ae3addcd301da50e.js"
+  "/itamar-portfolio-page/precache-manifest.69c17d8b39179f0b26396ebc3cc6f234.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/itamar-portfolio-pge/index.html", {
+workbox.routing.registerNavigationRoute("/itamar-portfolio-page/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
