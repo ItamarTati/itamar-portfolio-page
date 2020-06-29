@@ -89,9 +89,7 @@ export default  class Resume extends Component {
                   )
                 })
               }
-
           </ul>
-
           </div>
 
 </div>
