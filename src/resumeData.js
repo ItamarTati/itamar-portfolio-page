@@ -26,7 +26,7 @@ let resumeData = {
         },
         {
           "name":"envelope",
-          "url":"mailto:itamar.tati1994@gmail.com",
+          "url":"mailto:itamar.softwaredeveloper@gmail.com",
           "className":"fa fa-envelope"
         }
       ],
@@ -256,19 +256,19 @@ let resumeData = {
     "portfolio":[
       {
         "name":"Coding Women",
-        "description":"I created this website as part of a team, our goal was to encourage women to code",
+        "description":"I created this website as part of a team, our goal was to encourage women to code. This website uses React.JS.",
         "imgurl":"images/coding women.png",
         "url":"https://kodiri.github.io/8-days-a-week/"
       },
       {
         "name":"Covid-19 Tracker",
-        "description":"I created this website to spread awareness of the deadly Covid-19 viral infection.",
+        "description":"I created this website to spread awareness of the deadly Covid-19 viral infection. This website uses React.JS, Chart.JS, Material UI and CountUp.JS ",
         "imgurl":"images/covid-19.png",
         "url":"https://itamartati.github.io/covid19-tracker/"
       },
       {
         "name":"Anime and Manga",
-        "description":"I made a website to help people find great Anime to watch",
+        "description":"I made a website to help people find great Anime to watch. This website uses MongoDB, Express.JS, Node.JS, GrapgQL.JS, TypeScript.JS and React.JS",
         "imgurl":"images/anime.png",
         "url":"https://anime--manga.herokuapp.com/"
       },
