@@ -43,7 +43,7 @@ let resumeData = {
           {"Achievement": "Strategic Management"},
           {"Achievement": "Innovation Management"},
           {"Achievement": "Business Start-Up Management"},
-          {"Achievement": "Prooduct Management"}
+          {"Achievement": "product Management"}
         ]
       },
       {
@@ -262,7 +262,7 @@ let resumeData = {
       },
       {
         "name":"Covid-19 Tracker",
-        "description":"I created this website to spread awareness of the deadly Covid-19 viral infection. This website uses React.JS, Chart.JS, Material UI and CountUp.JS ",
+        "description":"I created this website to spread awareness of the deadly Covid-19 viral infection. This website uses React.JS, Chart.JS, Material UI and CountUp.JS",
         "imgurl":"images/covid-19.png",
         "url":"https://itamartati.github.io/covid19-tracker/"
       },
