@@ -43,7 +43,7 @@ let resumeData = {
           {"Achievement": "Strategic Management"},
           {"Achievement": "Innovation Management"},
           {"Achievement": "Business Start-Up Management"},
-          {"Achievement": "product Management"}
+          {"Achievement": "Product Management"}
         ]
       },
       {
