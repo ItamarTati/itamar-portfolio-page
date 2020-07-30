@@ -236,7 +236,7 @@ let resumeData = {
         "YearOfLeaving":"2019",
         "Achievements": [
           {"Achievement":"Hired to design and create website's front end using React JS, project was completed within 2 weeks"},
-          {"Achievement":"Advised and gave ideas on how to develope and maintain contructive relationships with Software Engineers"},
+          {"Achievement":"Advised and gave ideas on how to develop and maintain constructive relationships with Software Engineers"},
           {"Achievement":"Played a pivotal role in motivating staff"},
         ]
       },
