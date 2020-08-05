@@ -5,11 +5,6 @@ let resumeData = {
     "roleDescription": "My areas of expertise are mainly in JavaScript, ES6, React.JS, GraphQL, TypeScript.JS, Node.JS, Express.JS and MongoDB, however, I’m willing to learn, adapt and change to suit your business’s needs",
     "socialLinks":[
         {
-          "name":"linkedin",
-          "url":"https://www.linkedin.com/in/itamar-tati-javascript-developer-react-developer-b4b2a3102/",
-          "className":"fa fa-linkedin"
-        },
-        {
           "name":"github",
           "url":"https://github.com/ItamarTati",
           "className":"fa fa-github"
@@ -87,7 +82,7 @@ let resumeData = {
           {"Achievement":"Utilized React-Router to create Dynamic Routing in Single Page Applications"},
           {"Achievement":"Created highly responsive layouts for using the SCSS/SASS preprocessor"},
           {"Achievement":"Contributed on StackOverFlow and to open source projects on Github"},
-          {"Achievement":"Created RESTful and GraphQL API's to be used with both MySQL(PostgreSQL) and NoSQL(MongoDB) databases"}
+          {"Achievement":"Created RESTful and GraphQL API's to be used with both SQL and NoSQL databases"}
         ]
       },
     ],
@@ -201,7 +196,7 @@ let resumeData = {
         "skillname":"Flask"
       },
       {
-        "skillname":"NoSQL"
+        "skillname":"SQL"
       },
       {
         "skillname":"MySQL"
