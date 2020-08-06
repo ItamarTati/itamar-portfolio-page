@@ -82,7 +82,9 @@ let resumeData = {
           {"Achievement":"Utilized React-Router to create Dynamic Routing in Single Page Applications"},
           {"Achievement":"Created highly responsive layouts for using the SCSS/SASS preprocessor"},
           {"Achievement":"Contributed on StackOverFlow and to open source projects on Github"},
-          {"Achievement":"Created RESTful and GraphQL API's to be used with both SQL and NoSQL databases"}
+          {"Achievement":"Created RESTful and GraphQL API's to be used with both SQL and NoSQL databases"},
+          {"Achievement":"Leveraged Alan AI to create user queries and responses"}
+
         ]
       },
     ],
@@ -250,6 +252,12 @@ let resumeData = {
     ],
     "portfolio":[
       {
+        "name":"AI News Reader App",
+        "description":"I created a voice activated news reader app using Alan AI to respond to user queries. This website uses React.JS, TypeScript and Alan AI",
+        "imgurl":"images/alan ai.png",
+        "url":"https://itamartati.github.io/alan_ai/"
+      },
+      {
         "name":"Coding Women",
         "description":"I created this website as part of a team, our goal was to encourage women to code. This website uses React.JS.",
         "imgurl":"images/coding women.png",
@@ -267,6 +275,7 @@ let resumeData = {
         "imgurl":"images/anime.png",
         "url":"https://anime--manga.herokuapp.com/"
       },
+      
 
     ]
   }
