@@ -1,8 +1,8 @@
 let resumeData = {
     "imagebaseurl":"https://github.com/ItamarTati",
-    "name": "Itamar Tati",
+    "name": "Itamar Wilson Tati",
     "role": "Software Engineer",
-    "roleDescription": "My areas of expertise are mainly in JavaScript, ES6, React.JS, GraphQL, TypeScript.JS, Node.JS, Express.JS and MongoDB, however, I’m willing to learn, adapt and change to suit your business’s needs",
+    "roleDescription": "My areas of expertise are mainly in JavaScript, ES6, React, GraphQL, Redux, Redux-Saga TypeScript, Node, Express, MongoDB and MySQL, however, I’m willing to learn, adapt and change to suit your business’s needs",
     "socialLinks":[
         {
           "name":"github",
@@ -25,7 +25,7 @@ let resumeData = {
           "className":"fa fa-envelope"
         }
       ],
-    "aboutme":"I am a Software Engineer looking to work for a company on a long term basis (working at your company for several years). I've been developing websites as a hobby and professionally for over 2 years. Most of my experience lies in Full Stack Development. I mostly work with React.js, I’m open to learning any language, framework or technologies in general. I’m also very comfortable only working on the frontend or backend. Before programming I was a Business Management graduate who got a first class degree from Middlesex University, I then took my talents to the charity sector, the restaurant industry and education, providing support, leadership and teamwork.",
+    "aboutme":"I am a Software Engineer, I spends a lot of time looking at code documentations because I'm always trying to learn as much as I can. I enjoy listening lectures and coding videos because one day I'd like to present my own content. I spend a lot of time learning about Data Structures and Algorithims. And most importantly I'm a friendly kind person who likes to work as part of a team to build amazing products for customers. I have been apart of social causes and children's charities, I feel that it's important to give back to the community.",
     "address":"London",
     "website":"+447568488047",
     "education":[
