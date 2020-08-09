@@ -2,7 +2,7 @@ let resumeData = {
     "imagebaseurl":"https://github.com/ItamarTati",
     "name": "Itamar Wilson Tati",
     "role": "Software Engineer",
-    "roleDescription": "My areas of expertise are mainly in JavaScript, ES6, React, GraphQL, Redux, Redux-Saga TypeScript, Node, Express, MongoDB and MySQL, however, I’m willing to learn, adapt and change to suit your business’s needs",
+    "roleDescription": "My areas of expertise are mainly in JavaScript, ES6, React, GraphQL, Redux, TypeScript, Node, Express, MongoDB and MySQL, however, I’m willing to learn, adapt and change to suit your business’s needs",
     "socialLinks":[
         {
           "name":"github",
