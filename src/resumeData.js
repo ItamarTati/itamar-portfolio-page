@@ -2,7 +2,7 @@ let resumeData = {
     "imagebaseurl":"https://github.com/ItamarTati",
     "name": "Itamar Wilson Tati",
     "role": "Software Engineer",
-    "roleDescription": "My areas of expertise are mainly in JavaScript, ES6, React, GraphQL, Redux, TypeScript, Node, Express, MongoDB and MySQL, however, I’m willing to learn, adapt and change to suit your business’s needs",
+    "roleDescription": "Dear Recruiter/Hiring Manager, thank you for taking the time to read my resume and look at my portfolio. Feel free to contact me for any further questions. Enjoy the rest of your day.",
     "socialLinks":[
         {
           "name":"github",
@@ -25,7 +25,7 @@ let resumeData = {
           "className":"fa fa-envelope"
         }
       ],
-    "aboutme":"I am a Software Engineer, I spends a lot of time looking at code documentations because I'm always trying to learn as much as I can. I enjoy listening lectures and coding videos because one day I'd like to present my own content. I spend a lot of time learning about Data Structures and Algorithims. And most importantly I'm a friendly kind person who likes to work as part of a team to build amazing products for customers. I have been apart of social causes and children's charities, I feel that it's important to give back to the community.",
+    "aboutme":"I am a Software Engineer, I spend a lot of time looking at code documentations because I'm always trying to learn as much as I can. I enjoy listening to lectures and coding videos because one day I'd like to present my own content. I spend a lot of time learning about Data Structures and Algorithms. And most importantly I'm a friendly kind person who likes to work as part of a team to build amazing products for customers. I have been apart of social causes and children's charities.",
     "address":"London",
     "website":"+447568488047",
     "education":[
